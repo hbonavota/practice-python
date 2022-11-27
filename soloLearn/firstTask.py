@@ -80,6 +80,7 @@ print(name + " is "+age+" years old")
 
 #Your program needs to take the bill amount as input and output the tip as a float.
 
-bill = int(input())
+bill = int( input() )
 #tu código va aquí
 print(bill*20/100)
+
